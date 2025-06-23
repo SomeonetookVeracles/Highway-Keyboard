@@ -22,3 +22,9 @@ I got switches working finally, and got them mapped to the blueprint:
 ![image](https://github.com/user-attachments/assets/fdd17c3e-02b0-4999-93bd-8fcc88a5c510)
 
 **Total time spent: 5 Hours**
+
+# June 23rd, Added some cool stuff
+Playing around with using through holes and hand soldering to give me more flexibility with an OLED Screen and Rotary encoder, will update if there's progress
+![image](https://github.com/user-attachments/assets/0416864c-c5ca-47bf-8bf3-cff038e2f550)
+
+**Total time spent: 7 Hours**
