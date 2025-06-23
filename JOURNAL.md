@@ -24,7 +24,8 @@ I got switches working finally, and got them mapped to the blueprint:
 **Total time spent: 5 Hours**
 
 # June 23rd, Added some cool stuff
-Playing around with using through holes and hand soldering to give me more flexibility with an OLED Screen and Rotary encoder, will update if there's progress
+Playing around with using through holes and hand soldering to give me more flexibility with an OLED Screen and Rotary encoder, will update if there's progress.
+I also added a MCP 23017 to give me additional GPIO for fun stuff like the screen and encoder.
 ![image](https://github.com/user-attachments/assets/0416864c-c5ca-47bf-8bf3-cff038e2f550)
 
 **Total time spent: 7 Hours**
