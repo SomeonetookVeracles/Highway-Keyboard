@@ -16,3 +16,9 @@ Added USB-C, But for some reason the SWITCHES WONT APPEAR.
 ![image](https://github.com/user-attachments/assets/329a5ef9-bbfa-4b90-961a-25bde960e894)
 
 **Total time spent: 3.5 Hours**
+
+# June 22nd, Finally fixed the great switch dilemma
+I got switches working finally, and got them mapped to the blueprint:
+![image](https://github.com/user-attachments/assets/fdd17c3e-02b0-4999-93bd-8fcc88a5c510)
+
+**Total time spent: 5 Hours**
