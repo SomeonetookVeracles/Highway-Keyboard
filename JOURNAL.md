@@ -29,3 +29,22 @@ I also added a MCP 23017 to give me additional GPIO for fun stuff like the scree
 ![image](https://github.com/user-attachments/assets/0416864c-c5ca-47bf-8bf3-cff038e2f550)
 
 **Total time spent: 7 Hours**
+
+# July 21st, Redid a ton of stuff
+Messed up, broke everything, rebuilt the schematic from the ground up
+<img width="1419" height="726" alt="image" src="https://github.com/user-attachments/assets/945f4ad2-e5fc-4622-b86c-56436edeff51" />
+It's a bit cursed, but I got most of the wiring done:
+<img width="1048" height="558" alt="image" src="https://github.com/user-attachments/assets/8c9b42ce-01c1-40a4-81f9-9509f0d764de" />
+FINALLY GOT IT TOGETHER, FUCK KICAD
+<img width="1111" height="505" alt="image" src="https://github.com/user-attachments/assets/6e2e1a11-8586-473d-a292-b07d6ca49faf" />
+I also added a few more holes for screws, for added stability
+<img width="661" height="318" alt="image" src="https://github.com/user-attachments/assets/abd2baff-e6b4-470e-a9a1-47a1c9c9b67b" />
+
+I then did the case, this took a while (3 hours) because I had to manually cut out the holes for eacvh switch, and fiddle with the tolerances on it
+<img width="1437" height="790" alt="image" src="https://github.com/user-attachments/assets/0bc5855b-08bf-46c7-9e4e-affcbe1e0b0a" />
+
+I FINISHED THE CASE! (The holes for the switches are there I had to suppress them because of lag)
+<img width="1324" height="766" alt="image" src="https://github.com/user-attachments/assets/4541fe62-a9df-4143-8fb2-0978045e1f81" />
+
+**Total time spent: 19 hours**
+
