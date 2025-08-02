@@ -61,4 +61,8 @@ The main board showcase
 The rubber feet I put on the bottom:
 <img width="1060" height="799" alt="image" src="https://github.com/user-attachments/assets/8d331bdd-18b5-4cea-9015-ebd54ab988b6" />
 
+I also added a cable holder at the back to nestle it into (hard to see here but it'll be printed in SLA and mounted seperately)
+<img width="873" height="747" alt="image" src="https://github.com/user-attachments/assets/c51f456a-0362-4145-be49-b66f3263a2b7" />
+
+
 Thanks for reading!
