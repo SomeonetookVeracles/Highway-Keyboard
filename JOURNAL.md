@@ -6,6 +6,8 @@ created_at: "2025-06-5"
 ---
 
 # June 8th, began designing PCB
+
+(Quick note, I lost all my progress about halfway through, and rebuilt it, so all of these first entries are sparser, pls read to the end for the real journal!)
 Created chip, clock, and wiring, will do sd card reader and USB-c tomorrow.
 ![image](https://github.com/user-attachments/assets/d8759672-2006-4f70-8dd5-96b3a1e44f10)
 
