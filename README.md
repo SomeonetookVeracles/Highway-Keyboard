@@ -3,7 +3,7 @@ I'm building a minimalistic keyboard, something simple and stripped down. It's m
 I learned a lot while doing this, and explored concepts like impedence matching and zones, something that I've done before but never really had to prioritize.
 
 If I do this again, I'm using a ESP-32 chip, making a CPU clock with decoupling capacitors was exhausting and annoyed me to no small extent lmao.
-<img width="1337" height="715" alt="image" src="https://github.com/user-attachments/assets/85b999d1-5787-4e68-9128-9b8852ea2557" />
+<img width="1263" height="755" alt="473670760-d07d10b8-821d-4425-aa78-196647b4c1dc" src="https://github.com/user-attachments/assets/5ed16ddb-e6de-427f-978d-52f61724bdfb" />
 
 <img width="1049" height="467" alt="image" src="https://github.com/user-attachments/assets/dda2eae3-8b45-42fc-9991-732e67c4005d" />
 
