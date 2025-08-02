@@ -1,4 +1,8 @@
-I want to explore making a minimalistic keyboard, no extra flair, just a low profile keyboard with a USB-C connector and that's it.
+I'm building a minimalistic keyboard, something simple and stripped down. It's my first time working on a large PCB, and I kept getting distracted by feature creep and add-ons. So I'm going back to basics. I want this to be a barebones board that helps me sharpen my skills and really dial in the core of what makes a great keyboard.
+
+I learned a lot while doing this, and explored concepts like impedence matching and zones, something that I've done before but never really had to prioritize.
+
+If I do this again, I'm using a ESP-32 chip, making a CPU clock with decoupling capacitors was exhausting and annoyed me to no small extent lmao.
 <img width="1337" height="715" alt="image" src="https://github.com/user-attachments/assets/85b999d1-5787-4e68-9128-9b8852ea2557" />
 
 <img width="1049" height="467" alt="image" src="https://github.com/user-attachments/assets/dda2eae3-8b45-42fc-9991-732e67c4005d" />
