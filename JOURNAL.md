@@ -52,3 +52,13 @@ I FINISHED THE CASE! (The holes for the switches are there I had to suppress the
 
 **Total time spent: 19 hours**
 
+# August 2nd, the resubmission
+I got told I needed to add more detail to the case, so I decided to redesign it to include a chamfered edge around the individual keyholes, and optimizing the geometry of the case to be more 3d printer friendly. I also made the top out of a clear plastic, and I plan on using a SLA printer with clear resin to make it transparent, showing off the PCB and the art I'm adding to the silkscreen. The bottom will be made of orange ABS filament, sanded down. I also fixed the stabilizers so they actually will work physically.
+
+The main board showcase
+<img width="1263" height="755" alt="image" src="https://github.com/user-attachments/assets/d07d10b8-821d-4425-aa78-196647b4c1dc" />
+
+The rubber feet I put on the bottom:
+<img width="1060" height="799" alt="image" src="https://github.com/user-attachments/assets/8d331bdd-18b5-4cea-9015-ebd54ab988b6" />
+
+Thanks for reading!
